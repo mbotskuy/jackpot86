@@ -12,15 +12,18 @@ pkg install php
 
 pkg install figlet
 
+git clone https://github.com/mbotskuy/jackpot86/
 
 *run
-
-git clone https://github.com/mbotskuy/jackpot86/
 
 cd jackpot86
 
 php jp86.php
 
-Done
+"open data
+
+cd jackpot86
+
+nano  JP86.txt
 
 Chat Me  https://t.me/mbotskuy More Info
