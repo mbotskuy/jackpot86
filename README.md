@@ -2,7 +2,7 @@
 
 *insatll 
 
-Download Termux:API di playstore
+Download the Termux:API add-on from F-Droid or the Google Playstore
 
 pkg install termux-api
 
