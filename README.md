@@ -15,7 +15,7 @@ pkg install figlet
 
 *run
 
-git cline https://github.com/mbotskuy/jackpot86/
+git clone https://github.com/mbotskuy/jackpot86/
 
 cd jackpot
 
