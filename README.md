@@ -17,7 +17,7 @@ pkg install figlet
 
 git clone https://github.com/mbotskuy/jackpot86/
 
-cd jackpot
+cd jackpot86
 
 php jp86.php
 
